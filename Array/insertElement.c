@@ -37,3 +37,16 @@ int main()
 
     return 0;
 }
+
+
+
+Input:
+Enter the number of elements in the array: 5
+Enter 5 elements:
+1 2 3 4 5
+Enter the value to insert: 20
+Enter the position to insert (0 to 5): 1
+
+
+Output:
+Updated array: 1 20 2 3 4 5
