@@ -1,3 +1,4 @@
+//Two pointers technique
 #include <stdio.h>
 
 int main() {
